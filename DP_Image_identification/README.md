@@ -1,14 +1,13 @@
-<h1 align="center">Proyecto de clasificación para predicción de Malvare </h1><br>
+<h1 align="center">Proyecto Deep Learning para clasificación de imágenes </h1><br>
 
-<p>Este proyecto fue creado para identificar si un ordenador tiene o no la posibilidad de adquirir un malware, el data set fue tomado de kaggel <a href="https://www.kaggle.com/c/malwareiiitb">Link datos de repositorio</a>, para este proyecto se empezó con 83 columnas con datos que había que analizar.
+<p>Este proyecto fue creado para poner en practica conocimientos prácticos sobre Deep Learning.
 </p>
 <br>
 <h2>Herramientas utilizadas:</h2>
 <ul>
   <li>Google Colab</li>
   <li>Visual Studio Code</li>
-  <li>Excel</li>
-  <li>Git Hub</li>
+  <li>GitHub</li>
 </ul>
 
 <br>
@@ -19,10 +18,11 @@
 <li>Pandas</li>
 <li>Numpy</li>
 <li>Matplotlib</li>
-<li>Seaborn</li>
+<li>Tarfile</li>
+<li>pickle</li>
+<li>Random</li>
 <li>scikit-learn</li>
-<li>graphviz</li>
-<li>XGBoost</li>
+<li>TensorFlow - Keras</li>
 </ul>
 <br>
 <h3>📫 Como contactarme:</h3>
