@@ -1,0 +1,36 @@
+<h1 align="center">Proyecto de clasificación para predicción de Malvare </h1><br>
+
+<p>Este proyecto fue creado para identificar si un ordenador tiene o no la posibilidad de adquirir un malware, el data set fue tomado de kaggel <a href="https://www.kaggle.com/c/malwareiiitb">Link datos de repositorio</a>, para este proyecto se empezó con 83 columnas con datos que había que analizar.
+</p>
+<br>
+<h2>Herramientas utilizadas:</h2>
+<ul>
+  <li>Google Colab</li>
+  <li>Visual Studio Code</li>
+  <li>Excel</li>
+  <li>Git Hub</li>
+</ul>
+
+<br>
+
+<h2>Librerias Python utilizadas:</h2>
+<ul>
+    
+<li>Pandas</li>
+<li>Numpy</li>
+<li>Matplotlib</li>
+<li>Seaborn</li>
+<li>scikit-learn</li>
+<li>graphviz</li>
+<li>XGBoost</li>
+</ul>
+<br>
+<h3>📫 Como contactarme:</h3>
+<dl>
+  <dt>Mi correo:</dt>
+  <dd><a href="mailto:carlosmejiarias@gmail.com">carlosmejiarias@gmail.com</a></dd>
+  <dt>Móvil España | WhatsApp</dt>
+  <dd><a href="tel:+34632606207">+34 63 26 06 207</a></dd>
+  <dt>LinkedIn</dt>
+  <dd><a href="https://www.linkedin.com/in/carlos-f-mejia/">carlos-f-mejia</a></dd>
+</dl>
