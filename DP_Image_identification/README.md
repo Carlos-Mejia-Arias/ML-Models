@@ -19,7 +19,7 @@
 <li>Numpy</li>
 <li>Matplotlib</li>
 <li>Tarfile</li>
-<li>pickle</li>
+<li>Pickle</li>
 <li>Random</li>
 <li>scikit-learn</li>
 <li>TensorFlow - Keras</li>
