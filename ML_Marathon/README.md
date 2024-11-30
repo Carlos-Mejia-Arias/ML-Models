@@ -1,7 +1,7 @@
 <a href="#en">Inglés</a>
 <br>
 <h1 align="center" id="esp">Proyecto Maratón</h1>
-<p>Modelo en el cual intentamos predecir los tiempos de un maratón. Este es un proyecto de práctica donde realizamos las etapas básicas de un entrenamiento de datos (carga de datos, EDA, dividir el modelo en train y test, entrenamos al modelo y valoramos el modelo).</p>
+<p>Modelo en el cual intentamos predecir los tiempos de un maratón. Este es un proyecto de práctica donde realizamos las etapas básicas de un entrenamiento de datos (carga de datos, EDA, dividir el modelo en train y test, entrenamos al modelo y valoramos el modelo).  El entrenamiento del modelo se hizo con <strong>algoritmo de regresión lineal</strong> que podemos encontrar el scikit-learn.</p>
 
 <p>Se añadió una última sección donde, si ingresamos los valores de un nuevo como un data frame, los da la predicción de tiempo que deseamos para esa nueva persona.  Es un modelo pequeño y simple que ayuda a poder trabajar lo básico de un modelo de predicción. </p>
 
@@ -32,7 +32,7 @@
 <!-- Ingles -->
 
 <h1 align="center" id="en">Marathon Project</h1>
-<p>Model in which we try to predict the time of a marathon. This is a practice project where we performed the basic stages of data training (data loading, EDA, splitting the model into train and test, training the model and evaluating the model).</p>
+<p>Model in which we try to predict the time of a marathon. This is a practice project where we performed the basic stages of data training (data loading, EDA, splitting the model into train and test, training the model and evaluating the model). The training of the model was done with <strong>Linear Regression algorithm</strong> that can be found in scikit-learn.</p>
 
 <p>A last section was added where, if we enter the values of a new person as a data frame, it gives the time prediction we want for that new person.  It is a small and simple model that helps to be able to work the basics of a prediction model.</p>
 
